@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+products.db
+app copy.py
